@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletoneFactory", "SingletoneFactory\SingletoneFactory.csproj", "{1615C434-A3EC-4D31-A30F-653D8DC463F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singletone", "Singletone\Singletone.csproj", "{41B662FA-AF21-4C7E-B33C-DD904961310F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1615C434-A3EC-4D31-A30F-653D8DC463F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1615C434-A3EC-4D31-A30F-653D8DC463F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1615C434-A3EC-4D31-A30F-653D8DC463F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1615C434-A3EC-4D31-A30F-653D8DC463F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41B662FA-AF21-4C7E-B33C-DD904961310F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41B662FA-AF21-4C7E-B33C-DD904961310F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41B662FA-AF21-4C7E-B33C-DD904961310F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41B662FA-AF21-4C7E-B33C-DD904961310F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A9A598A-6210-47E7-B77B-601B4D45881C}
+	EndGlobalSection
+EndGlobal
